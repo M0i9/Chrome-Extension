@@ -6,5 +6,5 @@ on every click it will generate new quote
 
 
 ![BeforeClick!](beforeClick.png)
-![FirstClick!](Quote Extention\firstClick.png)
-![SecondClick!](Quote Extention\secondClick.png)
+![FirstClick!](firstClick.png)
+![SecondClick!](secondClick.png)
