@@ -5,6 +5,6 @@ on every click it will generate new quote
  3. random index to get random quote everytime user tap on extension
 
 
-![BeforeClick!](Quote Extention\beforeClick.png)
+![BeforeClick!](beforeClick.png)
 ![FirstClick!](Quote Extention\firstClick.png)
 ![SecondClick!](Quote Extention\secondClick.png)
